@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request, render_template
+from flask import Flask, request, render_template
 import Adafruit_DHT
 from flask import Flask, render_template, request
 from flask_sqlalchemy import SQLAlchemy
